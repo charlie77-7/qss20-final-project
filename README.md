@@ -10,6 +10,7 @@ https://drive.google.com/drive/folders/1jvXSN3DG2X3wUPvU6-ZRd65UylTkhMxJ?dmr=1&e
 
 `2026_02_06_ga_voting.csv`: UN General Assembly voting data
 `us_foreign_aid_country.csv`: US Foreign Aid data to each country
+`df_clean`: Cleaned dataframe after 01_load_clean. I tried to keep it in Github, but it was >100MB so i dragged it into the Google Drive folder.
 
 ## Code
 01_load_clean: loads and explores the General Assembly dataset, filters and prepares it for analysis by creating alignment scores. It then saves the data as a new dataset
