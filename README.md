@@ -18,3 +18,4 @@ https://drive.google.com/drive/folders/1jvXSN3DG2X3wUPvU6-ZRd65UylTkhMxJ?dmr=1&e
 
 ## Output
 global_alignment_us_vs_china.png: average country voting alignmnet w the US and China per year
+us_foreign_assistance_over_time.png: Total US Foreign Assistance Disbursements by year
