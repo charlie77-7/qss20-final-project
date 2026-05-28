@@ -17,5 +17,5 @@ https://drive.google.com/drive/folders/1jvXSN3DG2X3wUPvU6-ZRd65UylTkhMxJ?dmr=1&e
 02_analyze: SO FAR - creates average alignments by country, by year and by country and year. Also creates an output graph showing average country voting alignment with the US and China per year.  
 
 ## Output
-global_alignment_us_vs_china.png: average country voting alignmnet w the US and China per year
+global_alignment_us_vs_china.png: average country voting alignmnet w the US and China per year  
 us_foreign_assistance_over_time.png: Total US Foreign Assistance Disbursements by year
