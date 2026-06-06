@@ -18,7 +18,7 @@ Raw:
 `gallup_us_approval.csv`: Gallup US Leadership Approval Ratings  
 `gallup_china_Approval.csv`: Gallup China Leadership Approval Ratings  
 
-Cleaned:
+Cleaned:  
 `df_clean.csv`: Cleaned dataframe containing UN and foreign aid data after 01_load_clean. I tried to keep it in Github, but it was >100MB so i dragged it into the Google Drive folder.  
 `gallup_did_clean.csv`: Cleaned dataframe containing Gallup approval ratings and foreign aid data afteer 03_approval_ratings_load_clean  
 `df_us_scored.csv`: News headlines related to the USA with their corresponding sentiment score  
@@ -35,5 +35,26 @@ Cleaned:
 07_data_summary: creates summary tables of the `df_clean.csv` and `gallup_did_clean.csv` pre analysis.  
 
 ## Output
+.png files:  
 global_alignment_us_vs_china.png: average country voting alignmnet w the US and China per year  
-us_foreign_assistance_over_time.png: Total US Foreign Assistance Disbursements by year
+us_foreign_assistance_over_time.png: Total US Foreign Assistance Disbursements by year  
+sentiment_us_dev.png: US media sentiment pre/post Trump's inauguration for development related headlines  
+sentiment_us.png: US media sentiment pre/post Trump's inauguration for general headlines  
+sentiment_dev_combined.png: US & China media sentiment pre/post Trump's inauguration for development related headlines  
+sentiment_combined.png : US & China media sentiment pre/post Trump's inauguration for general headlines  
+sentiment_china_dev.png: China media sentiment pre/post Trump's inauguration for development related headlines  
+sentiment_china.png: China media sentiment pre/post Trump's inauguration for general headlines  
+parallel_trends_china_approval.png: Parallel trends graph showing high/low aid countries and Chinese approval over time  
+parallel_trends.png: same as parallel_trends_china_approval.png with a graph showing how the gap varies over time  
+global_approval_trend.png: graphs showing approval ratings of the US/China over time  
+global_alignment_us_vs_china.png: global UN voting alignment for China and US over time  
+china_alignment_by_aid_group.png: UN voting alignment with China for high/low aid countries over time  
+
+.tex files:  
+un_linear_test.tex: output table of the linear test for UN alignment for parallel trends  
+summary_gallup.tex: summary table of the Gallup dataset ready for analysis  
+did_un_results.tex: output table for the DiD on Chinese and US alignment  
+data_summary.tex: summary table of the UN/foreign assistance dataset ready for analysis  
+approval_linear_test.tex: output table of the linear test for Gallup approval for parallel trends  
+approval_did_results.tex: output tabel for the DiD on Chinese and US approval  
+
