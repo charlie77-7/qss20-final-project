@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Node
+node_modules/
+package-lock.json
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Large data files
+data/processed/df_clean.csv
+code/df_clean.csv
+code/gallup_us_approval.csv
+code/gallup_china_approval.csv
+code/mediacloud_headlines.csv
+code/df_china_scored.csv
+code/df_us_scored.csv
+code/gallup_did_clean.csv
+
+# Misc
+output/.Rhistory
+*.Rhistory
+~$*
+*.tmp
