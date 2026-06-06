@@ -51,10 +51,11 @@ Cleaned:
 `china_alignment_by_aid_group.png`: UN voting alignment with China for high/low aid countries over time  
 
 .tex files:  
-un_linear_test.tex: output table of the linear test for UN alignment for parallel trends  
-summary_gallup.tex: summary table of the Gallup dataset ready for analysis  
-did_un_results.tex: output table for the DiD on Chinese and US alignment  
-data_summary.tex: summary table of the UN/foreign assistance dataset ready for analysis  
-approval_linear_test.tex: output table of the linear test for Gallup approval for parallel trends  
-approval_did_results.tex: output tabel for the DiD on Chinese and US approval  
+`un_linear_test.tex`: output table of the linear test for UN alignment for parallel trends  
+`summary_gallup.tex`: summary table of the Gallup dataset ready for analysis  
+`did_un_results.tex`: output table for the DiD on Chinese and US alignment  
+`data_summary.tex`: summary table of the UN/foreign assistance dataset ready for analysis  
+`approval_linear_test.tex`: output table of the linear test for Gallup approval for parallel trends  
+`approval_did_results.tex`: output tabel for the DiD on Chinese and US approval  
+
 
